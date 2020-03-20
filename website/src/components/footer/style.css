@@ -1,0 +1,12 @@
+
+.footer .navbar-custom a.nav-link.active {
+    color: #49B050 !important;
+}
+
+.footer .navbar-custom a.nav-link {
+    color: #49B050 !important;
+    font-size: 0.8rem !important;
+    margin-right: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+}

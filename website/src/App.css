@@ -1,0 +1,132 @@
+.navbar {
+    margin: 10px 5px;
+}
+.navbar-brand{
+   text-transform: uppercase;
+}
+.mr-auto{
+    justify-content: center;
+    margin-left: 22px;
+}  
+
+#header{
+  position: fixed;
+  top: 0; 
+  width: 100%; 
+  transition: top 0.3s; 
+}
+
+.App{
+  padding-top: 8rem;
+  margin-top:0rem;
+  z-index: -1;
+}
+
+.footer{
+    width: 100vw; 
+    background-size: cover ;
+    padding-top: 5rem;
+    background-image: url('./res/footerbac.svg') ;
+    bottom: 0;
+  }
+
+ .ontop{
+    z-index: 5;
+  }
+
+  .Header{
+    background: #fff;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding: 0 2px;
+    z-index: 5; 
+  }
+
+  .card{
+      background-color: #ffffff !important;
+      box-shadow: 10px 10px 20px rgba(75, 177, 82, 0.2),
+                -10px -10px 20px rgba(0, 0, 0, 0.01); 
+      border: 0 !important;
+  }
+
+  .About{
+    padding: 6rem;
+    padding-top: 8rem;
+    text-align: center;
+    transition: .5s ease;
+    position: relative;
+  }
+
+  .About h2{
+    color: #49B050;
+    position: relative;
+
+  }
+
+  .About img{
+    align-content: center;
+    justify-content: center;
+    transform: translate(50%,0);
+  }
+
+  #home{
+    height: 1px;
+    top: -10rem;
+    position: absolute;
+    transition: .5s ease;
+    z-index: -1;
+  }
+
+  .questionInput,
+  .answerInput,
+  .optionInput{
+    padding: 8px;
+    margin: 8px 2px;
+    border-radius: 5px;
+    border: 1px solid ;
+    outline: none;
+  }
+
+  .questionInput{
+    width: 80% !important;
+    height: 200px !important;
+    margin-bottom: 15px;
+  }
+
+  .answerInput{
+    color: #49B050;
+    border: 1px solid #49B050;
+  
+  }
+
+  .optionInput{
+    justify-content: center;
+  }
+
+  @media (max-width: 600px){
+    #home{
+      height: 20%;
+    }
+
+    .About{
+      padding: 3rem;
+      padding-top: 35%;
+    }
+
+    .About img{
+      transform:translate(40%,0);
+      z-index: 5;
+    }
+
+    .navbar-brand{
+      text-transform: uppercase;
+      width:40%;
+    }
+    .navbar-brand img{
+      width:100%;
+    }
+    #contact{
+      margin: 0 2rem;
+    }
+  }
