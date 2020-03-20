@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CZTest/static/css/main.b98efd32.chunk.css",
+    "main.js": "/CZTest/static/js/main.9d1f6496.chunk.js",
+    "main.js.map": "/CZTest/static/js/main.9d1f6496.chunk.js.map",
+    "runtime-main.js": "/CZTest/static/js/runtime-main.02ccd523.js",
+    "runtime-main.js.map": "/CZTest/static/js/runtime-main.02ccd523.js.map",
+    "static/css/2.65b5a4e9.chunk.css": "/CZTest/static/css/2.65b5a4e9.chunk.css",
+    "static/js/2.8b01f724.chunk.js": "/CZTest/static/js/2.8b01f724.chunk.js",
+    "static/js/2.8b01f724.chunk.js.map": "/CZTest/static/js/2.8b01f724.chunk.js.map",
+    "index.html": "/CZTest/index.html",
+    "precache-manifest.2a66d440d8fddba18345f18461895d8d.js": "/CZTest/precache-manifest.2a66d440d8fddba18345f18461895d8d.js",
+    "service-worker.js": "/CZTest/service-worker.js",
+    "static/css/2.65b5a4e9.chunk.css.map": "/CZTest/static/css/2.65b5a4e9.chunk.css.map",
+    "static/css/main.b98efd32.chunk.css.map": "/CZTest/static/css/main.b98efd32.chunk.css.map",
+    "static/js/2.8b01f724.chunk.js.LICENSE": "/CZTest/static/js/2.8b01f724.chunk.js.LICENSE",
+    "static/media/App.css": "/CZTest/static/media/footerbac.bf3a546c.svg",
+    "static/media/index.css": "/CZTest/static/media/headerbac.8f84a42a.svg",
+    "static/media/instructor.png": "/CZTest/static/media/instructor.5ff74da4.png",
+    "static/media/logo_tagline.svg": "/CZTest/static/media/logo_tagline.e4a42839.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ccd523.js",
+    "static/css/2.65b5a4e9.chunk.css",
+    "static/js/2.8b01f724.chunk.js",
+    "static/css/main.b98efd32.chunk.css",
+    "static/js/main.9d1f6496.chunk.js"
+  ]
+}
