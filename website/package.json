@@ -2,13 +2,13 @@
   "name": "codezila",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codezila.org/",
+  "homepage": "https://kishangupta114.github.io/CZTest",
   "dependencies": {
     "@material-ui/core": "^4.8.1",
     "@material-ui/icons": "^4.5.1",
     "@octokit/rest": "^17.1.0",
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "prismjs": "^1.17.1",
     "react": "^16.12.0",
     "react-ace": "^8.0.0",
@@ -26,12 +26,12 @@
     "semantic-ui-react": "^0.88.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -10,7 +10,7 @@ class NavItem extends Component{
     render() {
         return (
             <Nav activeKey={this.props.location.pathname} className="mr-auto navbar-custom">
-                    <Nav.Link exact={true} href="/" >Home</Nav.Link>
+                    <Nav.Link href="/" >Home</Nav.Link>
                     <Nav.Link href="/learn">learning</Nav.Link>
                     <NavDropdown disabled title="Quiz" id="collasible-nav-dropdown" class="ddown-custom">
                         <NavDropdown.Item href="#dq">Daily Quiz</NavDropdown.Item>
