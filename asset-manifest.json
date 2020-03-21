@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CZTest/static/css/main.b98efd32.chunk.css",
-    "main.js": "/CZTest/static/js/main.31b6ec19.chunk.js",
-    "main.js.map": "/CZTest/static/js/main.31b6ec19.chunk.js.map",
+    "main.js": "/CZTest/static/js/main.2db1cc38.chunk.js",
+    "main.js.map": "/CZTest/static/js/main.2db1cc38.chunk.js.map",
     "runtime-main.js": "/CZTest/static/js/runtime-main.02ccd523.js",
     "runtime-main.js.map": "/CZTest/static/js/runtime-main.02ccd523.js.map",
     "static/css/2.65b5a4e9.chunk.css": "/CZTest/static/css/2.65b5a4e9.chunk.css",
     "static/js/2.dd74d379.chunk.js": "/CZTest/static/js/2.dd74d379.chunk.js",
     "static/js/2.dd74d379.chunk.js.map": "/CZTest/static/js/2.dd74d379.chunk.js.map",
     "index.html": "/CZTest/index.html",
-    "precache-manifest.df33a1cb2512295509d275c737a25813.js": "/CZTest/precache-manifest.df33a1cb2512295509d275c737a25813.js",
+    "precache-manifest.360dab2bc48acb73998cdde73a080cf9.js": "/CZTest/precache-manifest.360dab2bc48acb73998cdde73a080cf9.js",
     "service-worker.js": "/CZTest/service-worker.js",
     "static/css/2.65b5a4e9.chunk.css.map": "/CZTest/static/css/2.65b5a4e9.chunk.css.map",
     "static/css/main.b98efd32.chunk.css.map": "/CZTest/static/css/main.b98efd32.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.65b5a4e9.chunk.css",
     "static/js/2.dd74d379.chunk.js",
     "static/css/main.b98efd32.chunk.css",
-    "static/js/main.31b6ec19.chunk.js"
+    "static/js/main.2db1cc38.chunk.js"
   ]
 }
