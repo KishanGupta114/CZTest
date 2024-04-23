@@ -8,7 +8,7 @@
     "@material-ui/icons": "^4.5.1",
     "@octokit/rest": "^17.1.0",
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "prismjs": "^1.17.1",
     "react": "^16.12.0",
     "react-ace": "^8.0.0",
